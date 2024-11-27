@@ -1,0 +1,13 @@
+__pycache__/
+
+# environment
+.env
+.venv
+env/
+venv/
+
+.png
+.jpg
+.jpeg
+
+.pdf

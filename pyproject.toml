@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "blog-with-python"
+version = "0.1.0"
+description = ""
+authors = ["yunozon"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+matplotlib = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
