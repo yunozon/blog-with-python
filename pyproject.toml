@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.13"
 matplotlib = "^3.9.2"
+img2pdf = "^0.5.1"
 
 
 [build-system]
